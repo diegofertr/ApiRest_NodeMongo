@@ -19,7 +19,7 @@ function getFavorito(req, res){
 }
 function getFavoritos(req, res){
 
-}
+} 
 function saveFavorito(req, res){
 	var params = req.body;
 	res.status(200).send({favorito: params});
