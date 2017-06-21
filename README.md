@@ -1,4 +1,5 @@
 # ApiRest Node&Mongo
+The application allows to bookmark our internet favorites
 
 ### Description
 An apiRestful with Nodejs and Mongodb
